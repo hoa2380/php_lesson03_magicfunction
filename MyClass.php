@@ -6,5 +6,4 @@
 
      }
  }
- $hello = new MyClass('args', 'args2')
-?>
+ 
